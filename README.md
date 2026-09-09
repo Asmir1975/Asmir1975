@@ -30,5 +30,5 @@
 
 ### 📊 Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Asmir1975&show_icons=true&theme=github_dark&hide_border=true&count_private=true" alt="GitHub stats" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asmir1975&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Asmir1975&show_icons=true&theme=github_dark&hide_border=true&count_private=true&cache_seconds=21600" alt="GitHub stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asmir1975&layout=compact&theme=github_dark&hide_border=true&cache_seconds=21600" alt="Top languages" height="165"/>
