@@ -4,7 +4,7 @@
 
 <br/><br/>
 
-[![Profile views](https://komarev.com/ghpvc/?username=Asmir1975&style=flat-square&color=58a6ff&label=Profile+Views)](https://github.com/Asmir1975)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Asmir1975&left_text=Profile%20Views)
 [![HACS](https://img.shields.io/badge/HACS-Custom-41BDF5?style=flat-square&logo=homeassistantcommunitystore&logoColor=white)](https://github.com/home-assistant-HomeWhiz/home-assistant-HomeWhiz)
 [![Email](https://img.shields.io/badge/Email-akigrax%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:akigrax@gmail.com)
 
