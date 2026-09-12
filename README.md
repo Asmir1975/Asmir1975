@@ -25,6 +25,11 @@
 ### 🎸 Home Connect Local UI
 
 [![Repo](https://img.shields.io/badge/repo-Asmir1975%2Fhomeconnect__local__hass--UI-33a1ff?style=flat-square&logo=github&logoColor=white)](https://github.com/Asmir1975/homeconnect_local_hass-UI)
+[![Stars](https://img.shields.io/github/stars/Asmir1975/homeconnect_local_hass-UI?style=flat-square&color=33a1ff)](https://github.com/Asmir1975/homeconnect_local_hass-UI/stargazers)
+[![Downloads](https://img.shields.io/github/downloads/Asmir1975/homeconnect_local_hass-UI/total?style=flat-square&color=33a1ff)](https://github.com/Asmir1975/homeconnect_local_hass-UI/releases)
+
+<br/>
+
 [![Upstream](https://img.shields.io/badge/upstream-chris--mc1%2Fhomeconnect__local__hass-30363d?style=flat-square&logo=github)](https://github.com/chris-mc1/homeconnect_local_hass)
 
 <br/>
