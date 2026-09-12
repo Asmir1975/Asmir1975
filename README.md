@@ -17,6 +17,7 @@
 [![Repo](https://img.shields.io/badge/repo-home--assistant--HomeWhiz-22c55e?style=flat-square&logo=github&logoColor=white)](https://github.com/home-assistant-HomeWhiz/home-assistant-HomeWhiz)
 [![Stars](https://img.shields.io/github/stars/home-assistant-HomeWhiz/home-assistant-HomeWhiz?style=flat-square&color=22c55e)](https://github.com/home-assistant-HomeWhiz/home-assistant-HomeWhiz/stargazers)
 [![Forks](https://img.shields.io/github/forks/home-assistant-HomeWhiz/home-assistant-HomeWhiz?style=flat-square&color=22c55e)](https://github.com/home-assistant-HomeWhiz/home-assistant-HomeWhiz/network/members)
+[![Downloads](https://img.shields.io/github/downloads/home-assistant-HomeWhiz/home-assistant-HomeWhiz/total?style=flat-square&color=22c55e)](https://github.com/home-assistant-HomeWhiz/home-assistant-HomeWhiz/releases)
 ![Commit Activity](https://img.shields.io/github/commit-activity/y/home-assistant-HomeWhiz/home-assistant-HomeWhiz?style=flat-square&color=22c55e)
 [![License](https://img.shields.io/github/license/home-assistant-HomeWhiz/home-assistant-HomeWhiz?style=flat-square&color=22c55e)](https://github.com/home-assistant-HomeWhiz/home-assistant-HomeWhiz/blob/main/LICENSE)
 
